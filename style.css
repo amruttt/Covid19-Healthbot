@@ -1,0 +1,82 @@
+nav ul {
+  float: right;
+  padding-top: 15px;
+}
+
+nav li {
+  float: left;
+  margin: 0rem 2rem;
+}
+header {
+  position: fixed;
+  width: 100%;
+  color: rgb(10, 10, 10);
+}
+.navigation a {
+  color: rgba(255, 255, 255, 0.664);
+  text-decoration: none;
+  font-size: 11px;
+  justify-content: center;
+}
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+.searchTerm {
+  border-radius: 12px;
+  font-family: "Avant Garde", Avantgarde;
+  height: 30px;
+  width: 170px;
+  font-size: 15px;
+  border: none;
+}
+.fa-search {
+  margin-left: -22px;
+  margin-top: 5px;
+  color: rgba(45, 113, 240, 0.486);
+}
+
+nav {
+  display: flex;
+  min-height: 8vh;
+  background-color: rgb(12, 150, 241);
+  font-size: 22px;
+  align-items: center;
+  justify-content: center;
+}
+.navigation li {
+  list-style: none;
+}
+
+.container-img {
+  background-image: url("covid19_open-graph.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.frame {
+  padding-top: 70px;
+  text-align: center;
+  padding-bottom: 6rem;
+}
+h1 {
+  padding-top: 2em;
+}
+#music {
+  background-color: rgba(71, 146, 231, 0.658);
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(7, 7, 7);
+  font-size: 25px;
+}
+.welcome {
+  color: rgb(8, 8, 8);
+  font-size: 30px;
+  padding-top: 1em;
+}
+.btn-light {
+  color: rgb(39, 17, 233) !important;
+  margin-left: auto;
+  margin-right: auto;
+}
