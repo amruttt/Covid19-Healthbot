@@ -1,5 +1,5 @@
 # Covid19-Healthbot
-This project collects automated screening protocols and self-checker algorithms from organizations implementing based on CDC triage protocols in interactive web sites, chat bots, and other technology.
+To identify chatbot use cases deployed for public health response activities during the Covid-19 pandemic and self-checker algorithms from organizations implementing based on CDC triage protocols in interactive web sites, chat bots, and other technology.
 
 # Azure Technology used 
 - Health Bot
