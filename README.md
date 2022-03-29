@@ -6,5 +6,9 @@ To identify chatbot use cases deployed for public health response activities dur
 - App Service
 - Static Web App
 
+# Screenshot Of Project Output
+1.
+![2022-03-29](https://user-images.githubusercontent.com/87927544/160579605-374e6242-948f-4823-9b0a-7dd98fd0faeb.png)
+
 # Project Demo Url
 - https://green-meadow-0db37350f.1.azurestaticapps.net
